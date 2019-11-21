@@ -61,7 +61,7 @@ class TicTacToeController: UIViewController {
                     
                     else
                     {
-                        whoWonLabel.text = "O hat gewonnen!"
+                        whoWonLabel.text = "O won!"
                     }
                 
                 playAgainButtonOutlet.isHidden = false
